@@ -1,3 +1,3 @@
-int void main(){
+void main(){
 	cout>>"Hola mundo";
 }
